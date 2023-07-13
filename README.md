@@ -1,2 +1,0 @@
-# Unisat
-Satelite Game
